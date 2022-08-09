@@ -5,6 +5,10 @@ They include the FPGA NOR remapping exploit, bitstream parser and other "goodies
 
 The original report is also mirrored for convenience.
 
+Press release:
+
+https://subreption.com/press-releases/2022-birdwatch-first-report/
+
 ## Mirroring this repository
 
 Please mirror or fork this repository freely!
